@@ -1,1 +1,4 @@
-Test Git Quick Start Demo
+Test Git Quick Start Demo<br>
+"$ git diff master origin/master" - comparing local repository(master) with remote repository
+(git hub)
+
