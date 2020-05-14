@@ -1,6 +1,6 @@
-Adding first line - Thanks to all studens
-
-##Adding changes before conflict
+##Adding, Modified changes in a branch
 <<Changes on master branch before conflict>>
+##Added changes after conflict 
+<<Modified and Added chanegs in branch>>
 ##Added again in master for second time
 <<afetr adding in trouble branch>>
