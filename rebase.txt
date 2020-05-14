@@ -1,1 +1,3 @@
-Adding first line - Thanks to all students
+Adding first line - Thanks to all student
+##Adding changes before conflict
+<<Changes on master branch before conflict>>
