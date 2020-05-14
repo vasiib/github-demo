@@ -3,4 +3,5 @@
 ##Added changes after conflict 
 <<Modified and Added chanegs in branch>>
 ##Added again in master for second time
-<<afetr adding in trouble branch>>
+<<afetr adding in trouble branch>
+##Added another line
