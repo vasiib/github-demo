@@ -1,3 +1,6 @@
-Adding first line - Thanks to all student
+Adding first line - Thanks to all studens
+
 ##Adding changes before conflict
 <<Changes on master branch before conflict>>
+##Added again in master for second time
+<<afetr adding in trouble branch>>
